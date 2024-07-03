@@ -6,10 +6,22 @@ import Row from './Row';
 import requests from './Requests';
 
 function HomeScreen() {
+<<<<<<< HEAD
     return ( <
         div className = "homeScreen" >
         <
         Nav >
+=======
+  return(
+    <div className="homeScreen">
+    
+        <Nav>
+        
+        </Nav>
+        
+        {/*Banner*/}
+        <Banner/>
+>>>>>>> ebb759ba2a2e7a728100fc2ce541859f0b862fdc
 
         <
         /Nav>

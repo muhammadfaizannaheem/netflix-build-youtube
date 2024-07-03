@@ -1,5 +1,9 @@
 {
   "projects": {
+<<<<<<< HEAD
     "default": "netflixseason2"
+=======
+    "default": "netflixclonek"
+>>>>>>> ebb759ba2a2e7a728100fc2ce541859f0b862fdc
   }
 }
